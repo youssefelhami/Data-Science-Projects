@@ -9,18 +9,21 @@ A better description of each project is in their respective read.me file
 
 ### Projects Included
 
-- Book Scrapping and EDA
-
-- Book Recommendation Systems
-
-- Laptop Price Predictor
-
 - Traffic Sign Classification
 
 - Music Genre Classification
+
+- Laptop Price Predictor
+
+- [**Book Scrapping and EDA:**](https://github.com/youssefelhami/bookrepository-big-data-project) Mined book data from BookRepository and GoodReads, performed an extensive exploratory data analysis, and a sentiment analysis of the book reviews to determine if they are genre biased
+	-	**Dataset** Personally mined from [BookRepository](https://www.bookdepository.com/) and [GoodReads](https://www.goodreads.com/)
+	-	**Tools:** Hadoop, Hive, Matplotlib, Seaborn, Numpy, Pandas
+
+- Book Recommendation System
+
+
 
 </br>
 
 ## Datasets
 The Datasets are either included as csv files in the repo, or are linked in each project's Read.me file.
-
